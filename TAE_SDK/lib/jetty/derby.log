@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Tue Jan 14 13:21:48 CST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0143-8f32-d0e8-000001a60248 
+on database directory D:\work\tae-sdk-google\trunk\TAE_SDK\db\sdk2  with class loader sun.misc.Launcher$AppClassLoader@16d4d81 
+Loaded from file:/D:/work/tae-sdk-google/trunk/TAE_SDK/lib/share/derby-10.8.2.2.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_17-b02
+user.dir=D:\work\tae-sdk-google\trunk\TAE_SDK\temp
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
